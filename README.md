@@ -22,7 +22,9 @@ shyboy0499@github:~$ ./welcome.sh
 <!-- <img alt="#c8bdaf" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/c8bdaf.png" width="25" height="20" /><img alt="#c52b1f" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/c52b1f.png" width="25" height="20" /><img alt="#21293d" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/21293d.png" width="25" height="20" /><img alt="#837572" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/837572.png" width="25" height="20" /><img alt="#f2e7d2" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/f2e7d2.png" width="25" height="20" /> -->
 </p>
 </td>
-<td width="65%" valign="middle">
+<td width="65%" valign="middle" align="center">
+
+<img src="https://github.com/Shyboy0499/Shyboy0499/blob/main/Waifu/Night-Coding.gif" alt="Night Coding" width="400" />
 
 ```
 shyboy0499@github
