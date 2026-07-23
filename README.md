@@ -63,3 +63,12 @@ CATching bugs in code...
 [bug] .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
 ```
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/output/contribs-dark.svg" />
+    <img alt="3D Isometric GitHub contribution graph" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/output/contribs-light.svg" />
+  </picture>
+</p>
