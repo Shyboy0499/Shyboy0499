@@ -17,10 +17,6 @@ shyboy0499@github:~$ ./welcome.sh
 <tr>
 <td width="35%" valign="middle" align="center">
 <img src="https://github.com/Shyboy0499/Shyboy0499/blob/main/Waifu/Night-Coding.gif" alt="Night Coding" width="300" />
-<br>
-<p align="center">
-<img alt="#d38285" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d38285.png" width="25" height="20" /><img alt="#d3d7e3" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d3d7e3.png" width="25" height="20" /><img alt="#7882a0" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/7882a0.png" width="25" height="20" /><img alt="#72434e" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/72434e.png" width="25" height="20" /><img alt="#d14e4d" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d14e4d.png" width="25" height="20" />
-</p>
 </td>
 <td width="65%" valign="middle">
 
@@ -67,5 +63,8 @@ CATching bugs in code...
 ---
 
 <p align="center">
-<img alt="#d38285" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d38285.png" width="25" height="20" /><img alt="#d3d7e3" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d3d7e3.png" width="25" height="20" /><img alt="#7882a0" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/7882a0.png" width="25" height="20" /><img alt="#72434e" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/72434e.png" width="25" height="20" /><img alt="#d14e4d" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d14e4d.png" width="25" height="20" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/output/contribs-dark.svg" />
+    <img alt="3D Isometric GitHub contribution graph" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/output/contribs-light.svg" />
+  </picture>
 </p>
