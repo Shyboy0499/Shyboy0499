@@ -19,7 +19,7 @@ shyboy0499@github:~$ ./welcome.sh
 <img src="https://github.com/Shyboy0499/Shyboy0499/blob/main/Waifu/Night-Coding.gif" alt="Night Coding" width="300" />
 <br>
 <p align="center">
-<img alt="#ec6558" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/ec6558.png" width="25" height="20" /><img alt="#bf9378" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/bf9378.png" width="25" height="20" /><img alt="#c2544e" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/c2544e.png" width="25" height="20" /><img alt="#e8b8a7" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/e8b8a7.png" width="25" height="20" /><img alt="#64554a" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/64554a.png" width="25" height="20" />
+<img alt="#d38285" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d38285.png" width="25" height="20" /><img alt="#d3d7e3" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d3d7e3.png" width="25" height="20" /><img alt="#7882a0" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/7882a0.png" width="25" height="20" /><img alt="#72434e" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/72434e.png" width="25" height="20" /><img alt="#d14e4d" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d14e4d.png" width="25" height="20" />
 </p>
 </td>
 <td width="65%" valign="middle">
@@ -67,5 +67,5 @@ CATching bugs in code...
 ---
 
 <p align="center">
-<img alt="#ec6558" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/ec6558.png" width="25" height="20" /><img alt="#bf9378" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/bf9378.png" width="25" height="20" /><img alt="#c2544e" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/c2544e.png" width="25" height="20" /><img alt="#e8b8a7" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/e8b8a7.png" width="25" height="20" /><img alt="#64554a" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/64554a.png" width="25" height="20" />
+<img alt="#d38285" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d38285.png" width="25" height="20" /><img alt="#d3d7e3" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d3d7e3.png" width="25" height="20" /><img alt="#7882a0" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/7882a0.png" width="25" height="20" /><img alt="#72434e" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/72434e.png" width="25" height="20" /><img alt="#d14e4d" src="https://raw.githubusercontent.com/Shyboy0499/Shyboy0499/main/img/d14e4d.png" width="25" height="20" />
 </p>
