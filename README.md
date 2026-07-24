@@ -84,7 +84,7 @@ CATching bugs in code...
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=Shyboy0499&theme=onedark&column=7&margin-w=15&no-frame=true" />
+    <img alt="GitHub Trophy" src="https://github-profile-trophy-plum-seven.vercel.app/?username=Shyboy0499&theme=onedark&column=7&margin-w=15&no-frame=true" />
   </a>
 </p>
 
